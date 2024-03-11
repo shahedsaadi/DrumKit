@@ -7,9 +7,11 @@ Drum Kit is a musical web application for drum lovers, the home page includes di
 - JavaScript.
 - DOM.
 
-# Website's Image 
-![Screenshot 2024-03-11 232307](https://github.com/shahedsaadi/DrumKit/assets/108287237/4429031d-3cde-496d-bd02-4ed2c5602f62)
-
 # Visit The Website
 
 https://shahedsaadi.github.io/DrumKit/
+
+# Website's Image 
+![Screenshot 2024-03-11 232307](https://github.com/shahedsaadi/DrumKit/assets/108287237/4429031d-3cde-496d-bd02-4ed2c5602f62)
+
+
